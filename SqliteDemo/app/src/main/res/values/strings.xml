@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string-array name="category">
+        <item>Hang de vo</item>
+        <item>Hang dong lanh</item>
+        <item>Hang hoa thong thuong</item>
+        <item>Hang roi</item>
+        <item>Hang khong chiu thue</item>
+        <item>Hang qua canh</item>
+    </string-array>
+</resources>
